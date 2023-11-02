@@ -1,0 +1,29 @@
+.header1 {
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 137px;
+	margin-top: 21px;
+	position: sticky;
+	display: inline-block;
+}
+
+.header2 {
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 35px;
+	position: sticky;
+	display: inline-block;
+}
+
+.logo1 {
+	vertical-align: middle;
+	margin-left: 29px;
+}
