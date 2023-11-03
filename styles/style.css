@@ -1,3 +1,7 @@
+body {
+	background-color:#F1F1F1;;
+}
+
 .header1 {
 	font-family: 'Roboto', sans-serif;
 	color: #000;
@@ -27,3 +31,97 @@
 	vertical-align: middle;
 	margin-left: 29px;
 }
+
+.title1 {
+	margin-top: 42px;
+	margin-left: 137px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.maindiv1 {
+	margin-top: 27px;
+	display: inline-block;
+}
+
+.div1 {
+	margin-left: 138px;
+	margin-right: 40px;
+	display: inline-block;
+}
+
+.container {
+	position: relative;
+}
+
+.img1 {
+	position: relative;
+}
+
+.img1abs {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	right: 137px;
+	bottom: 131px;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+
+.div1bottom {
+	width: 362px;
+	height: 171px;
+	background-color: #FFF;
+	border-radius: 0px 0px 5px 5px;
+}
+
+.text1 {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-top: 68px;
+	padding-left: 37px;
+	padding-right: 87px;
+}
+
+.timelogo {
+	display: inline-block;
+	padding-top: 11px;
+	padding-left: 40px;
+}
+
+.mago {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-left: 11px;
+	vertical-align: middle;
+	padding-bottom: 10px;
+}
+
+.div2 {
+	display: inline-block;
+}
+
+.div3 {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+
