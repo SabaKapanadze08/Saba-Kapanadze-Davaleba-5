@@ -124,4 +124,41 @@ body {
 	margin-left: 40px;
 }
 
+.title2 {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	margin-left: 140px;
+	margin-top: 57px;
+}
+
+.container2 {
+	width: 1165px;
+	margin-left: 138px;
+	margin-top: 30px;
+}
+
+.left_side {
+	display: inline-block;
+	width: 758px;
+	vertical-align: top;
+	margin-right: 40px;
+}
+
+.right_side {
+	display: inline-block;
+	width: 362px;
+	vertical-align: top;
+}
+
+.left_side img {
+	margin-bottom: 42px;
+}
+
+.right_side img {
+	margin-bottom: 98px;
+}
 
