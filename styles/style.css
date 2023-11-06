@@ -162,3 +162,72 @@ body {
 	margin-bottom: 98px;
 }
 
+.footer {
+	height: 201px;
+	background: #243043;
+	width: 100%;
+}
+
+.ul1 {
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	margin-left: 137px;
+	padding-top: 59px;
+	line-height: 30px;
+	display: inline-block;
+}
+
+.ul2 {
+	display: inline-block;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	margin-left: 137px;
+	padding-top: 59px;
+	line-height: 30px;
+}
+
+.ul3 {
+	display: inline-block;
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	margin-left: 137px;
+	padding-top: 59px;
+	line-height: 30px;
+}
+
+.ftext {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	margin-left: 112px;
+	vertical-align: top;
+	margin-top: 62px;
+
+}
+
+.footer nav {
+	display: inline-block;
+}
+
+.geolab {
+	width: 38px;
+	height: 40px;
+	margin-top: 58px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 416px;
+	margin-bottom: 103px;
+}
